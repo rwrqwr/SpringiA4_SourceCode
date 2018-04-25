@@ -11,7 +11,7 @@ import org.springframework.jndi.JndiObjectFactoryBean;
 
 @Configuration
 public class DataSourceConfig {
-  
+
   @Bean(destroyMethod = "shutdown")
   @Profile("dev")
   public DataSource embeddedDataSource() {

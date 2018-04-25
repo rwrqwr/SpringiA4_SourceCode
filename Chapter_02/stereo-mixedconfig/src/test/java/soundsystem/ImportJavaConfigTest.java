@@ -25,7 +25,7 @@ public class ImportJavaConfigTest {
   public void play() {
     player.play();
     assertEquals(
-        "Playing Sgt. Pepper's Lonely Hearts Club Band by The Beatles\n",
+        "Playing Sgt. Pepper's Lonely Hearts Club Band by The Beatles\r\n",
         log.getLog());
   }
 

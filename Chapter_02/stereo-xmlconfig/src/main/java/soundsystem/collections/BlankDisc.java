@@ -22,5 +22,8 @@ public class BlankDisc implements CompactDisc {
       System.out.println("-Track: " + track);
     }
   }
-
+  @Override
+  public void playTrack(int trackNumber) {
+    System.out.println("-Track:"+tracks.get(trackNumber));
+  }
 }

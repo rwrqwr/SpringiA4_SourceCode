@@ -7,6 +7,44 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="gradleHome" value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.11-bin/8lfndmj0afdkz7s7dhuxipc07/gradle-1.11" />
         <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../stereo-javaconfig" />
+        <option name="gradleHome" value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.11-bin/8lfndmj0afdkz7s7dhuxipc07/gradle-1.11" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../stereo-javaconfig" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../stereo-mixedconfig" />
+        <option name="gradleHome" value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.11-bin/8lfndmj0afdkz7s7dhuxipc07/gradle-1.11" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../stereo-mixedconfig" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../stereo-xmlconfig" />
+        <option name="gradleHome" value="$USER_HOME$/.gradle/wrapper/dists/gradle-1.11-bin/8lfndmj0afdkz7s7dhuxipc07/gradle-1.11" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../stereo-xmlconfig" />
+          </set>
+        </option>
         <option name="useAutoImport" value="true" />
       </GradleProjectSettings>
     </option>
